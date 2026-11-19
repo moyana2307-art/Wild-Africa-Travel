@@ -1,0 +1,26 @@
+{
+  "short_name": "Wild Africa",
+  "name": "Wild Africa Travel",
+  "description": "Premier Southern African journeys, safaris and travel planning.",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fcfaf5",
+  "theme_color": "#12261a"
+}

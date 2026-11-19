@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b3a27"/>
+      <stop offset="1" stop-color="#0c1811"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#sky)"/>
+  <circle cx="940" cy="170" r="78" fill="#d6b56a" opacity=".9"/>
+  <path d="M0 500c170-70 280-40 420-110 150-75 260-35 390-125 130-90 250-55 390-125v490H0Z" fill="#203f2b"/>
+  <path d="M0 560c190-55 330-15 500-85 170-70 330-10 700-120v275H0Z" fill="#0c1811"/>
+  <path d="M155 440c55-12 80-48 103-108 17 49 42 79 78 92-31 6-56 24-73 55-17-30-49-47-108-39Z" fill="#d6b56a"/>
+  <path d="M255 440v105m-70 0h140" stroke="#f5eddd" stroke-width="9" stroke-linecap="round"/>
+  <text x="110" y="155" font-family="Georgia, serif" font-size="76" fill="#fcfaf5">Wild Africa Travel</text>
+  <text x="112" y="215" font-family="Arial, sans-serif" font-size="27" letter-spacing="5" fill="#d6b56a">DISCOVER SOUTHERN AFRICA</text>
+</svg>
